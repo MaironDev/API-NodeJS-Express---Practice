@@ -23,6 +23,12 @@ app.get('/products',(req, res) => {
       name: 'Product2',
       description: 'Teclado',
       price: 50
+    },
+    {
+      id: 3,
+      name: "product3"
+
+
     }
   ]);
 
